@@ -1,0 +1,40 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2019-07-05 13:03:47 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:03:47 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:03:47 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:03:47 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:04:10 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:04:16 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:04:43 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:04:50 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:04:53 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:04:54 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:29 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:30 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:33 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:35 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:37 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:38 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:39 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:44 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:45 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:46 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 13:05:49 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:15:27 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:15:56 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:15:59 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:16:02 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:16:08 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:16:20 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:16:26 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:16:29 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:17:46 --> Mailer Error: SMTP connect() failed. https://github.com/PHPMailer/PHPMailer/wiki/Troubleshooting
+ERROR - 2019-07-05 14:17:46 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:15 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:20 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:23 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:25 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:27 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:46 --> 404 Page Not Found: /index
+ERROR - 2019-07-05 14:18:49 --> 404 Page Not Found: /index
